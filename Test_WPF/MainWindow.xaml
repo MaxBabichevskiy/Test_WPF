@@ -21,28 +21,28 @@
             <RadioButton x:Name="q2Answer3" Content="7" GroupName="q2" />
         </StackPanel>
 
-        <Label Content="2. Сколько будет 10 - 4?" />
+        <Label Content="3. Сколько будет 10 - 4?" />
         <StackPanel Orientation="Horizontal">
             <RadioButton x:Name="q3Answer1" Content="8" GroupName="q3" />
             <RadioButton x:Name="q3Answer2" Content="6" GroupName="q3" />
             <RadioButton x:Name="q3Answer3" Content="7" GroupName="q3" />
         </StackPanel>
 
-        <Label Content="2. Сколько будет 4 * 10?" />
+        <Label Content="4. Сколько будет 4 * 10?" />
         <StackPanel Orientation="Horizontal">
             <RadioButton x:Name="q4Answer1" Content="52" GroupName="q4" />
             <RadioButton x:Name="q4Answer2" Content="40" GroupName="q4" />
             <RadioButton x:Name="q4Answer3" Content="27" GroupName="q4" />
         </StackPanel>
 
-        <Label Content="2. Сколько будет 3 * 3?" />
+        <Label Content="5. Сколько будет 3 * 3?" />
         <StackPanel Orientation="Horizontal">
             <RadioButton x:Name="q5Answer1" Content="9" GroupName="q5" />
             <RadioButton x:Name="q5Answer2" Content="12" GroupName="q5" />
             <RadioButton x:Name="q5Answer3" Content="8" GroupName="q5" />
         </StackPanel>
 
-        <Label Content="2. Сколько будет 8 / 2?" />
+        <Label Content="6. Сколько будет 8 / 2?" />
         <StackPanel Orientation="Horizontal">
             <RadioButton x:Name="q6Answer1" Content="2" GroupName="q6" />
             <RadioButton x:Name="q6Answer2" Content="3" GroupName="q6" />
